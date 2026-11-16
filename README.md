@@ -17,15 +17,13 @@
 ![Experience](https://img.shields.io/badge/Experience-16%2B%20years-555?style=flat-square)
 ![Location](https://img.shields.io/badge/Based%20in-Austin%2C%20TX-555?style=flat-square)
 
-[The chain](#the-chain) · [Track record](#track-record) · [Builds](#flagship-builds) · [Writing](#writing) · [Latest](#latest) · [Career](#career-path) · [Talk to me](#talk-to-me)
+[The chain](#the-chain) · [Track record](#track-record) · [Writing](#writing) · [Latest](#latest) · [Career](#career-path) · [Talk to me](#talk-to-me)
 
 </div>
 
 ---
 
 ## The chain
-
-Every AI win has to travel five links before it shows up on a P&L. I work on all five.
 
 ```mermaid
 flowchart LR
@@ -42,81 +40,31 @@ flowchart LR
   class G margin
 ```
 
-| <img src="assets/model.svg" width="32" alt="" align="absmiddle"/> Model | <img src="assets/agent.svg" width="32" alt="" align="absmiddle"/> Agent | <img src="assets/workflow.svg" width="32" alt="" align="absmiddle"/> Workflow | <img src="assets/outcome.svg" width="32" alt="" align="absmiddle"/> Outcome | <img src="assets/margin.svg" width="32" alt="" align="absmiddle"/> Margin |
-|:--|:--|:--|:--|:--|
-| [rnd-trust-graph](https://github.com/vinayagrw/rnd-trust-graph) | [agentic-b2b-pay](https://github.com/vinayagrw/agentic-b2b-pay) | [clinical-trial-prescreener](https://github.com/vinayagrw/clinical-trial-prescreener-agentic) | $10M a year saved with ML scheduling | [Models to Margins](https://github.com/vinayagrw/models-to-margins) |
-| [eye-for-the-blind](https://github.com/vinayagrw/eye-for-the-blind) | [agentic-commerce-sparky](https://github.com/vinayagrw/agentic-commerce-sparky) | [agentic-ui-patterns](https://github.com/vinayagrw/agentic-ui-patterns) | $2M a year saved with eCommerce ML | $2.8M+ in AI deals led, H1 2026 |
-| [askmed-finetune](https://github.com/vinayagrw/askmed-finetune) | [a2a-auto-email-processor](https://github.com/vinayagrw/a2a-auto-email-processor) | [ai-meeting-cockpit](https://github.com/vinayagrw/ai-meeting-cockpit) | | |
-| | [ai-jet-booking](https://github.com/vinayagrw/ai-jet-booking) | [claude-skills](https://github.com/vinayagrw/claude-skills) | | |
+| | Build | Proves | Tests |
+|:-:|:--|:--|--:|
+| <img src="assets/model.svg" width="32" alt="model"/> | [R&D Trust Graph](https://github.com/vinayagrw/rnd-trust-graph) | Cited answers | 67 files |
+| <img src="assets/agent.svg" width="32" alt="agent"/> | [Agentic B2B Pay](https://github.com/vinayagrw/agentic-b2b-pay) | Human-approved payments | 78 files |
+| <img src="assets/agent.svg" width="32" alt="agent"/> | [Agentic Commerce](https://github.com/vinayagrw/agentic-commerce-sparky) | Search on Amazon ESCI | 91 files |
+| <img src="assets/workflow.svg" width="32" alt="workflow"/> | [Agentic UI Patterns](https://github.com/vinayagrw/agentic-ui-patterns) | 61 patterns, 15 driveable flows | 77 files |
+| <img src="assets/workflow.svg" width="32" alt="workflow"/> | [Trial Pre-screener](https://github.com/vinayagrw/clinical-trial-prescreener-agentic) | 5-page redesign | none |
+| <img src="assets/outcome.svg" width="32" alt="outcome"/> | ML scheduling | $10M/yr client saving | n/a |
+| <img src="assets/outcome.svg" width="32" alt="outcome"/> | eCommerce ML | $2M/yr client saving | n/a |
+| <img src="assets/margin.svg" width="32" alt="margin"/> | [Models to Margins](https://models-to-margins.vinayagrw.workers.dev/) | 22 deep dives | 2 files |
+
+<sub>Demos use synthetic data. Client results are production work.</sub>
 
 ## Track record
 
 <table>
 <tr>
-<td align="center" width="25%"><h3>16+ yrs</h3><sub>building data, ML and AI systems</sub></td>
-<td align="center" width="25%"><h3>$10M / yr</h3><sub>top client saving from one ML solution</sub></td>
-<td align="center" width="25%"><h3>40+</h3><sub>engineers mentored</sub></td>
-<td align="center" width="25%"><h3>22</h3><sub>published AI deep dives</sub></td>
+<td align="center" width="25%"><h3>16+ yrs</h3><sub>in AI and data</sub></td>
+<td align="center" width="25%"><h3>40+</h3><sub>mentored</sub></td>
+<td align="center" width="25%"><h3>$2.8M+</h3><sub>AI deals, H1 2026</sub></td>
+<td align="center" width="25%"><h3>1</h3><sub>AI governance program live</sub></td>
 </tr>
 </table>
 
-**Years in:** AI and Gen AI 8 · Architecture 12 · Python 10 · AWS 8 · GCP 7 · Data science 6 · Azure 3
-
-> [!NOTE]
-> Every demo below runs on synthetic or public data, and most run with no API key.
-
-## Flagship builds
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**<img src="assets/model.svg" width="32" alt="" align="absmiddle"/> Model** · [R&D Trust Graph](https://github.com/vinayagrw/rnd-trust-graph)<br/>
-A pharma R&D knowledge graph where a reasoner decides and the chat cites every answer.<br/>
-<sub>TypeScript · Neo4j · RDF/SPARQL · OWL · SHACL</sub>
-
-</td>
-<td width="50%" valign="top">
-
-**<img src="assets/agent.svg" width="32" alt="" align="absmiddle"/> Agent** · [Agentic B2B Pay](https://github.com/vinayagrw/agentic-b2b-pay)<br/>
-AI agents buy, people approve, and sandbox payment rails settle with evidence.<br/>
-<sub>TypeScript · Fastify · SQLite · Stripe test mode</sub>
-
-</td>
-</tr>
-<tr>
-<td valign="top">
-
-**<img src="assets/agent.svg" width="32" alt="" align="absmiddle"/> Agent** · [Agentic Commerce](https://github.com/vinayagrw/agentic-commerce-sparky)<br/>
-Agentic shopping and agent-run MLOps with hybrid search over Amazon ESCI.<br/>
-<sub>React · Fastify · Python · AG-UI / A2UI</sub>
-
-</td>
-<td valign="top">
-
-**<img src="assets/workflow.svg" width="32" alt="" align="absmiddle"/> Workflow** · [Clinical Trial Pre-screener](https://github.com/vinayagrw/clinical-trial-prescreener-agentic)<br/>
-One oncology trial pre-screener built twice, as a dense workbench and as a 5-page redesign.<br/>
-<sub>React · TypeScript · Vite</sub>
-
-</td>
-</tr>
-<tr>
-<td valign="top">
-
-**<img src="assets/workflow.svg" width="32" alt="" align="absmiddle"/> Workflow** · [Agentic UI Patterns](https://github.com/vinayagrw/agentic-ui-patterns)<br/>
-61 agentic interface patterns, 15 of them as flows you can drive on a simulated agent.<br/>
-<sub>React 19 · TypeScript</sub>
-
-</td>
-<td valign="top">
-
-**<img src="assets/margin.svg" width="32" alt="" align="absmiddle"/> Margin** · [Models to Margins](https://github.com/vinayagrw/models-to-margins)<br/>
-Business-first AI research briefs and 22 deep dives. [**Open the live site**](https://models-to-margins.vinayagrw.workers.dev/)<br/>
-<sub>Astro · TypeScript · Cloudflare Workers</sub>
-
-</td>
-</tr>
-</table>
+**Years:** AI 8 · Architecture 12 · Python 10 · AWS 8 · GCP 7 · Data science 6 · Azure 3
 
 ## Writing
 
@@ -154,6 +102,7 @@ Newest deep dives, refreshed every Monday by a GitHub Action:
 |:--|:--|
 | **Reasoners decide, models explain** | Rules, graphs and code make the call. The language model writes the answer and cites it |
 | **Every agent action has an owner** | Agents that pay, write or change a system get a named human owner, a limit and an audit trail |
+| **Grow the people who grow the system** | 40+ engineers mentored. Every build here doubles as a teaching repo |
 | **Measure the margin, not the demo** | A pilot only counts when it moves a business number someone already tracks |
 
 </details>
@@ -189,14 +138,13 @@ Newest deep dives, refreshed every Monday by a GitHub Action:
 | [rnd-trust-graph](https://github.com/vinayagrw/rnd-trust-graph) | Pharma R&D knowledge graph with a cited, grounded chat |
 | [agentic-ui-patterns](https://github.com/vinayagrw/agentic-ui-patterns) | 61 agentic interface patterns, 15 driveable flows |
 | [agentic-commerce-sparky](https://github.com/vinayagrw/agentic-commerce-sparky) | Agentic shopping and agent-run MLOps |
-| [agentic-b2b-pay](https://github.com/vinayagrw/agentic-b2b-pay) | Agents buy, people approve, sandbox rails settle |
+| [agentic-b2b-pay](https://github.com/vinayagrw/agentic-b2b-pay) | Human-approved payments, sandbox rails settle |
 | [clinical-trial-prescreener-agentic](https://github.com/vinayagrw/clinical-trial-prescreener-agentic) | Trial pre-screener in two interface designs |
 | [claude-skills](https://github.com/vinayagrw/claude-skills) | 13 Claude Code skills and 10 mods |
 | [ai-meeting-cockpit](https://github.com/vinayagrw/ai-meeting-cockpit) | Records meetings, streams captions, builds searchable memory (beta) |
 | [a2a-auto-email-processor](https://github.com/vinayagrw/a2a-auto-email-processor) | Agents on Google A2A that handle contractor emails |
 | [ai-jet-booking](https://github.com/vinayagrw/ai-jet-booking) | Book a private jet by chat with a local LLM and MCP agents |
 | [eye-for-the-blind](https://github.com/vinayagrw/eye-for-the-blind) | Image captions read aloud for blind users |
-| [askmed-finetune](https://github.com/vinayagrw/askmed-finetune) · [ai-assistant](https://github.com/vinayagrw/ai-assistant) · [attendance-recorder](https://github.com/vinayagrw/attendance-recorder) · [M5](https://github.com/vinayagrw/M5) · [data-science-projects](https://github.com/vinayagrw/data-science-projects) · [data-science](https://github.com/vinayagrw/data-science) · [DevOps](https://github.com/vinayagrw/DevOps) | Earlier experiments and coursework |
 
 </details>
 
