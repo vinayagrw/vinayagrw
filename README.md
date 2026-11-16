@@ -4,7 +4,7 @@
 
 **AI Engineering Director and AI Leader**
 
-<sub>From model to margin: AI that ships, governs itself and pays back.</sub>
+<sub>I back every proposal with working software, not slideware.</sub>
 
 <br/>
 
@@ -17,7 +17,7 @@
 ![Experience](https://img.shields.io/badge/Experience-16%2B%20years-555?style=flat-square)
 ![Location](https://img.shields.io/badge/Based%20in-Austin%2C%20TX-555?style=flat-square)
 
-[The chain](#the-chain) · [Track record](#track-record) · [Writing](#writing) · [Latest](#latest) · [Career](#career-path) · [Talk to me](#talk-to-me)
+[The chain](#the-chain) · [Track record](#track-record) · [What I lead](#what-i-lead) · [Writing](#writing) · [Latest](#latest) · [Career](#career-path) · [Talk to me](#talk-to-me)
 
 </div>
 
@@ -57,14 +57,26 @@ flowchart LR
 
 <table>
 <tr>
-<td align="center" width="25%"><h3>16+ yrs</h3><sub>in AI and data</sub></td>
-<td align="center" width="25%"><h3>40+</h3><sub>mentored</sub></td>
-<td align="center" width="25%"><h3>$2.8M+</h3><sub>AI deals, H1 2026</sub></td>
-<td align="center" width="25%"><h3>1</h3><sub>AI governance program live</sub></td>
+<td align="center" width="20%"><h3>16+ yrs</h3><sub>in AI and data</sub></td>
+<td align="center" width="20%"><h3>40+</h3><sub>engineers coached</sub></td>
+<td align="center" width="20%"><h3>4</h3><sub>enterprise accounts led</sub></td>
+<td align="center" width="20%"><h3>12</h3><sub>pursuits led</sub></td>
+<td align="center" width="20%"><h3>$2.8M+</h3><sub>AI deals, H1 2026</sub></td>
 </tr>
 </table>
 
 **Years:** AI 8 · Architecture 12 · Python 10 · AWS 8 · GCP 7 · Data science 6 · Azure 3
+
+## What I lead
+
+| | Area | Proof |
+|:-:|:--|:--|
+| <img src="assets/agent.svg" width="32" alt="agent"/> | **Agent platform** | Multi-tenant agentic platform and an Agent Factory model for repeatable production agents |
+| <img src="assets/agent.svg" width="32" alt="agent"/> | **Voice AI** | Multi-tenant voice platform for 24/7 operations, no-code builders, AI-to-human handoff |
+| <img src="assets/workflow.svg" width="32" alt="workflow"/> | **Governance and FinOps** | Quality scoring, LLM observability, PII guardrails, model routing, RAG evaluation, cost metering. Prompt registry with a CI gate across 3 accounts |
+| <img src="assets/outcome.svg" width="32" alt="outcome"/> | **Delivery** | 14 AI solutions, 5 production GenAI services. Reusable frameworks cut time to delivery 30 to 40% |
+| <img src="assets/model.svg" width="32" alt="model"/> | **Healthcare IP** | Medicare Star Ratings optimisation product, licensed to a US payer |
+| <img src="assets/margin.svg" width="32" alt="margin"/> | **Rescue** | Ended a 2-year production drought for a healthcare client with one shipped microservice |
 
 ## Writing
 
@@ -103,6 +115,7 @@ Newest deep dives, refreshed every Monday by a GitHub Action:
 | **Reasoners decide, models explain** | Rules, graphs and code make the call. The language model writes the answer and cites it |
 | **Every agent action has an owner** | Agents that pay, write or change a system get a named human owner, a limit and an audit trail |
 | **Grow the people who grow the system** | 40+ engineers mentored. Every build here doubles as a teaching repo |
+| **Working software, not slideware** | Every proposal ships with a demo that runs |
 | **Measure the margin, not the demo** | A pilot only counts when it moves a business number someone already tracks |
 
 </details>
@@ -121,7 +134,7 @@ Newest deep dives, refreshed every Monday by a GitHub Action:
 | Before | Technical Architect and Data Scientist | Forecasting, deep learning and ETA prediction. eCommerce ML that saved a client $2M a year |
 | 2011 to 2020 | Software and data engineering roles | Product engineering across storage, automotive and services |
 
-**Domains:** healthcare, contact center, pharmacy benefits, retail and manufacturing, supply chain
+**Domains:** healthcare, contact center, pharmacy benefits, retail and manufacturing, supply chain, real estate, legal tech, payments
 
 **Education:** MS Data Science, Liverpool John Moores University · PG Diploma Data Science, IIIT Bangalore · BE Computer Science
 
@@ -150,7 +163,7 @@ Newest deep dives, refreshed every Monday by a GitHub Action:
 
 ## Talk to me
 
-About agent platforms, AI governance, AI cost and ROI, or turning a pilot into production. Reach me on [LinkedIn](https://www.linkedin.com/in/vinayagrw/).
+Let's talk about AI-native enterprise transformation, agent platforms, AI governance and AI cost. Reach me on [LinkedIn](https://www.linkedin.com/in/vinayagrw/).
 
 ## Stack
 
