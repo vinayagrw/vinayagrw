@@ -47,7 +47,7 @@ flowchart LR
 | <img src="assets/agent.svg" width="32" alt="agent"/> | [Agentic Commerce](https://github.com/vinayagrw/agentic-commerce-sparky) | Search on Amazon ESCI | 91 files |
 | <img src="assets/workflow.svg" width="32" alt="workflow"/> | [Agentic UI Patterns](https://github.com/vinayagrw/agentic-ui-patterns) | 61 patterns, 15 driveable flows | 77 files |
 | <img src="assets/workflow.svg" width="32" alt="workflow"/> | [Trial Pre-screener](https://github.com/vinayagrw/clinical-trial-prescreener-agentic) | 5-page redesign | none |
-| <img src="assets/outcome.svg" width="32" alt="outcome"/> | ML scheduling | $10M/yr client saving | n/a |
+| <img src="assets/outcome.svg" width="32" alt="outcome"/> | ML scheduling | $10M+/yr client saving | n/a |
 | <img src="assets/outcome.svg" width="32" alt="outcome"/> | eCommerce ML | $2M/yr client saving | n/a |
 | <img src="assets/margin.svg" width="32" alt="margin"/> | [Models to Margins](https://models-to-margins.vinayagrw.workers.dev/) | 22 deep dives | 2 files |
 
@@ -130,7 +130,7 @@ Newest deep dives, refreshed every Monday by a GitHub Action:
 | Stage | Role | What I did |
 |:--|:--|:--|
 | Now | AI Engineering Director | Lead AI pre-sales and delivery, agent platforms, voice agents and AI governance |
-| Before | Engineering Manager, ML and Gen AI | Agentic and Gen AI apps with LangGraph, RAG and knowledge graphs. ML scheduling that saved a client $10M a year |
+| Before | Engineering Manager, ML and Gen AI | Agentic and Gen AI apps with LangGraph, RAG and knowledge graphs. ML scheduling that saved a client $10M+ a year |
 | Before | Technical Architect and Data Scientist | Forecasting, deep learning and ETA prediction. eCommerce ML that saved a client $2M a year |
 | 2011 to 2020 | Software and data engineering roles | Product engineering across storage, automotive and services |
 
