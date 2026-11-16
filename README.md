@@ -69,14 +69,14 @@ flowchart LR
 
 ## What I lead
 
-| | Area | Proof |
-|:-:|:--|:--|
-| <img src="assets/agent.svg" width="32" alt="agent"/> | **Agent platform** | Multi-tenant agentic platform and an Agent Factory model for repeatable production agents |
-| <img src="assets/agent.svg" width="32" alt="agent"/> | **Voice AI** | Multi-tenant voice platform for 24/7 operations, no-code builders, AI-to-human handoff |
-| <img src="assets/workflow.svg" width="32" alt="workflow"/> | **Governance and FinOps** | Quality scoring, LLM observability, PII guardrails, model routing, RAG evaluation, cost metering. Prompt registry with a CI gate across 3 accounts |
-| <img src="assets/outcome.svg" width="32" alt="outcome"/> | **Delivery** | 14 AI solutions, 5 production GenAI services. Reusable frameworks cut time to delivery 30 to 40% |
-| <img src="assets/model.svg" width="32" alt="model"/> | **Healthcare IP** | Medicare Star Ratings optimisation product, licensed to a US payer |
-| <img src="assets/margin.svg" width="32" alt="margin"/> | **Rescue** | Ended a 2-year production drought for a healthcare client with one shipped microservice |
+| Area | Proof |
+|:--|:--|
+| <img src="assets/agent.svg" width="32" alt="agent"/><br/>**Agent platform** | Multi-tenant agentic platform and an Agent Factory model for repeatable production agents |
+| <img src="assets/agent.svg" width="32" alt="agent"/><br/>**Voice AI** | Multi-tenant voice platform for 24/7 operations, no-code builders, AI-to-human handoff |
+| <img src="assets/workflow.svg" width="32" alt="workflow"/><br/>**Governance and FinOps** | Quality scoring, LLM observability, PII guardrails, model routing, RAG evaluation, cost metering. Prompt registry with a CI gate across 3 accounts |
+| <img src="assets/outcome.svg" width="32" alt="outcome"/><br/>**Delivery** | 14 AI solutions, 5 production GenAI services. Reusable frameworks cut time to delivery 30 to 40% |
+| <img src="assets/model.svg" width="32" alt="model"/><br/>**Healthcare IP** | Medicare Star Ratings optimisation product, licensed to a US payer |
+| <img src="assets/margin.svg" width="32" alt="margin"/><br/>**Rescue** | Ended a 2-year production drought for a healthcare client with one shipped microservice |
 
 ## Writing
 
